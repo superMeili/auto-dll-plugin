@@ -4,7 +4,7 @@ Webpack5 plug-in for simplifying DLL usage
 
 It's very easy to use
 
-***You need to use it in a development environment, not a build environment***
+***You need to use it in a development environment, not a prodution environment***
 
 # Installation
 
