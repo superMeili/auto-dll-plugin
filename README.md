@@ -1,4 +1,4 @@
-# check-loader
+# auto-dll-plugin
 
 Webpack5 plug-in for simplifying DLL usage
 
