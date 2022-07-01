@@ -1,0 +1,29 @@
+{
+  "name": "auto-dll-plugin",
+  "version": "1.0.0",
+  "description": "Webpack plug-in for simplifying DLL usage",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superMeili/auto-dll-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "dll"
+  ],
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "fs-extra": "^10.1.0",
+    "ora": "^4.1.1"
+  },
+  "author": "meili",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/superMeili/auto-dll-plugin/issues"
+  },
+  "homepage": "https://github.com/superMeili/auto-dll-plugin#readme"
+}
